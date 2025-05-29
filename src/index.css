@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.alternate-image-crop > div:nth-child(odd) img {
+  transform: translateX(0); /* Mitad izquierda */
+}
+.alternate-image-crop > div:nth-child(even) img {
+  transform: translateX(-50%); /* Mitad derecha */
+}
