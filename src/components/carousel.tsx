@@ -3,9 +3,9 @@ import { useState } from "react";
 function carousel() {
   const images = [
     "/assets/products.png",
-    "/assets/Picture2.jpg",
     "/assets/products.png",
-    "/assets/Picture1.jpg",
+    "/assets/products.png",
+    "/assets/products.png",
   ];
 
   const [current, setCurrent] = useState(0);

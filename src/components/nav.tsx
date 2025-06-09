@@ -10,10 +10,7 @@ function nav() {
   return (
     <nav className=" p-2 my-2 flex items-center justify-between lg:flex-row text-[#00A651] shadow-sm">
       <div className="flex items-center space-x-4">
-        <a
-          className="transition pl-2 hover:scale-105 duration-500 "
-          target="_blank"
-        >
+        <a className="transition pl-2 hover:scale-105 duration-500 " href="/">
           <img src={logo} className="logo react w-60" alt="React logo" />
         </a>
       </div>
