@@ -2,10 +2,10 @@ import { useState } from "react";
 
 function carousel() {
   const images = [
-    "/public/assets/products.png",
-    "/public/assets/Picture2.jpg",
-    "/public/assets/products.png",
-    "/public/assets/Picture1.jpg",
+    "/assets/products.png",
+    "/assets/Picture2.jpg",
+    "/assets/products.png",
+    "/assets/Picture1.jpg",
   ];
 
   const [current, setCurrent] = useState(0);
