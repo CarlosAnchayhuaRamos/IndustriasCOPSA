@@ -9,7 +9,7 @@ function article(data: articleProps) {
   const { title, description, image, url } = data;
 
   return (
-    <div className="max-w-2/5 border border-[#00A651] rounded-lg shadow-sm bg-[#F5F5F5] my-3">
+    <div className="lg:max-w-2/5 border border-[#00A651] rounded-lg shadow-sm bg-[#F5F5F5] my-3">
       <a href={url}>
         <img
           className="rounded-t-lg w-full rounded-2xl"

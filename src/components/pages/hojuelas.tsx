@@ -7,7 +7,7 @@ function hojuelas() {
       title: "Hojuelas con Avena y Cañihua",
       description:
         "Producto obtenido a partir de granos de Cañihua, mediante un proceso de laminado y pre cocido. Originaria de las zonas del altiplano peruano, se cultiva en la región Puno (al norte del Lago Titicaca), en Cusco y Arequipa entre los 3800 a 4400 metros sobre el nivel del mar",
-      image: "/src/assets/HojuelaAvenaCañihua.jpeg",
+      image: "/public/assets/HojuelaAvenaCañihua.jpeg",
       url: "",
     },
     {
@@ -15,7 +15,7 @@ function hojuelas() {
       title: "Hojuelas con Avena y Maca",
       description:
         "Producto elaborado a partir de granos seleccionados como los cuales son sometidos al proceso de extrusión, preservando todas las características nutritivas. Aporta principalmente proteínas de origen vegetal, también una buena cantidad de hidratos de carbono",
-      image: "/src/assets/HojuelaAvenaMaca.jpeg",
+      image: "/public/assets/HojuelaAvenaMaca.jpeg",
       url: "",
     },
     {
@@ -23,7 +23,7 @@ function hojuelas() {
       title: "Hojuelas con Avena y Quinua",
       description:
         "Producto obtenido a partir de granos seleccionados de Quinua, cereal de origen andino y de la Avena, mediante un proceso de laminado y pre cocido",
-      image: "/src/assets/HojuelaAvenaQuinua.jpeg",
+      image: "/public/assets/HojuelaAvenaQuinua.jpeg",
       url: "",
     },
     {
@@ -31,7 +31,7 @@ function hojuelas() {
       title: "Hojuelas con Avena y Kiwicha",
       description:
         "Producto obtenido a partir granos seleccionados de Avena a través del proceso de pre cocción y laminado; y de la Kiwicha a la cual se le atribuye un sinfín de cualidades nutritivas",
-      image: "/src/assets/HojuelaAvenaKiwicha.jpeg",
+      image: "/public/assets/HojuelaAvenaKiwicha.jpeg",
       url: "",
     },
     {
@@ -39,7 +39,7 @@ function hojuelas() {
       title: "Hojuelas de Quinua",
       description:
         " Las hojuelas precocidas de Quinua sin preservantes ni saborizantes, se elaboran con granos que son clasificados, despedrados, desaponisados, secados, tratados térmicamente antes de ser laminados obteniendo hojuelas de sabor agradable, luego pasan por el proceso de mezcla con micronutrientes con el propósito de prevenir o corregir deficiencias nutricionales",
-      image: "/src/assets/HojuelaQuinua.jpeg",
+      image: "/public/assets/HojuelaQuinua.jpeg",
       url: "",
     },
     {
@@ -47,15 +47,15 @@ function hojuelas() {
       title: "Hojuelas de Kiwicha",
       description:
         " Las hojuelas precocidas de Quinua sin preservantes ni saborizantes, se elaboran con granos que son clasificados, despedrados, desaponisados, secados, tratados térmicamente antes de ser laminados obteniendo hojuelas de sabor agradable, luego pasan por el proceso de mezcla con micronutrientes con el propósito de prevenir o corregir deficiencias nutricionales",
-      image: "/src/assets/HojuelaKiwicha.jpeg",
-      url: "/src/assets/HojuelaKiwicha.jpeg",
+      image: "/public/assets/HojuelaKiwicha.jpeg",
+      url: "",
     },
     {
       index: 6,
       title: "Hojuelas de Avena",
       description:
         " Las hojuelas precocidas de Quinua sin preservantes ni saborizantes, se elaboran con granos que son clasificados, despedrados, desaponisados, secados, tratados térmicamente antes de ser laminados obteniendo hojuelas de sabor agradable, luego pasan por el proceso de mezcla con micronutrientes con el propósito de prevenir o corregir deficiencias nutricionales",
-      image: "/src/assets/HojuelaAvena.jpeg",
+      image: "/public/assets/HojuelaAvena.jpeg",
       url: "",
     },
   ];

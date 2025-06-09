@@ -6,14 +6,14 @@ function products() {
       title: "Harinas extruidas",
       description:
         " Producto elaborado a partir de granos seleccionados los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas. Aporta principalmente proteínas de origen vegetal, también una buena cantidad de hidratos de carbono",
-      image: "/src/assets/harinasExtruidas.png",
+      image: "/public/assets/harinasExtruidas.png",
       url: "/productos/harinas",
     },
     {
       title: "Hojuelas",
       description:
         "Producto elaborado a partir de granos seleccionados como los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas. Aporta principalmente proteínas de origen vegetal, también una buena cantidad de hidratos de carbono",
-      image: "/src/assets/hojuelas.png",
+      image: "/public/assets/hojuelas.png",
       url: "/productos/hojuelas",
     },
   ];

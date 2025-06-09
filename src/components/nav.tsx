@@ -1,4 +1,4 @@
-import logo from "/src/assets/logo-copsa-png.png";
+import logo from "/public/assets/logo-copsa-png.png";
 import { useState } from "react";
 import { ChevronDown, Menu, X } from "lucide-react";
 

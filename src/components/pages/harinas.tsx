@@ -7,7 +7,7 @@ function harinas() {
       title: "Mezcla de Harinas",
       description:
         " Producto elaborado a partir de granos seleccionados de Trigo, Quinua, Kiwicha, Soya, Ajonjolí, Maíz y Arveja, los cuales son sometidos al proceso de extrusión en donde se aplica alta temperatura y presión, produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas",
-      image: "/src/assets/MezclaHarinas.jpeg",
+      image: "/public/assets/MezclaHarinas.jpeg",
       url: "",
     },
     {
@@ -15,7 +15,7 @@ function harinas() {
       title: "Harina de Trigo",
       description:
         "Producto elaborado a partir de granos seleccionados de Trigo los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas. Aporta principalmente proteínas de origen vegetal, también una buena cantidad de hidratos de carbono",
-      image: "/src/assets/HarinaTrigo.jpeg",
+      image: "/public/assets/HarinaTrigo.jpeg",
       url: "",
     },
     {
@@ -23,7 +23,7 @@ function harinas() {
       title: "Harina de Quinua",
       description:
         "Producto elaborado a partir de granos seleccionados de Quinua los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas.",
-      image: "/src/assets/HarinaQuinua.jpeg",
+      image: "/public/assets/HarinaQuinua.jpeg",
       url: "",
     },
     {
@@ -31,7 +31,7 @@ function harinas() {
       title: "Harina de Kiwicha",
       description:
         " Producto elaborado a partir de granos seleccionados de Kiwicha los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las aracterísticas nutritivas.",
-      image: "/src/assets/HarinaKiwicha.jpeg",
+      image: "/public/assets/HarinaKiwicha.jpeg",
       url: "",
     },
     {
@@ -39,7 +39,7 @@ function harinas() {
       title: "Harina de Maíz",
       description:
         " Producto elaborado a partir de granos seleccionados de Maíz los cuales son sometidas al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento, pero preservando todas las características nutritivas",
-      image: "/src/assets/HarinaMaiz.jpeg",
+      image: "/public/assets/HarinaMaiz.jpeg",
       url: "",
     },
     {
@@ -47,7 +47,7 @@ function harinas() {
       title: "Harina de Haba",
       description:
         "Producto elaborado a partir de granos seleccionados de Habas los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento pero preservando todas las características nutritivas. Reservando todas las características nutritivas.",
-      image: "/src/assets/HarinaHaba.jpeg",
+      image: "/public/assets/HarinaHaba.jpeg",
       url: "",
     },
     {
@@ -55,7 +55,7 @@ function harinas() {
       title: "Harina de Cebada",
       description:
         "Producto elaborado a partir de granos seleccionados de Habas los cuales son sometidos al proceso de extrusión, en donde se aplica alta temperatura y presión produciéndose una serie de cambios en la forma, estructura y composición del alimento pero preservando todas las características nutritivas. Reservando todas las características nutritivas.",
-      image: "/src/assets/HarinaCebada.jpeg",
+      image: "/public/assets/HarinaCebada.jpeg",
       url: "",
     },
   ];
